@@ -16,5 +16,3 @@ distance = r * numpy.arccos(
 print('Distance between a and b is ', distance, 'cos(lon) is ',
       numpy.sin(lat_a) * numpy.sin(lat_b) + numpy.cos(lat_a) * numpy.cos(lat_b) * numpy.cos(lon_a - lon_b), ' r = ', r,
       ' great distance is ', 2 * numpy.pi * r - distance)
-
-'''git test'''
