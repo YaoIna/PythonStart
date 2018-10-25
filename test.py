@@ -1,6 +1,7 @@
-from iterator_test import IteratorTest
+import collections
 
-iterator_test = IteratorTest()
-
-for i in range(len(iterator_test)):
-    print(iterator_test[i])
+ss = ['kkkkkikkk', 'ooo']
+map_dict = {2: 'abc', 3: 'def', 4: 'ghi', 5: 'jkl', 6: 'mno', 7: 'pqrs', 8: 'tuv', 9: 'wxyz'}
+t = map_dict.get(0)
+tt = 1
+collections.Counter
