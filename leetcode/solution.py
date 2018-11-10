@@ -147,3 +147,91 @@ class Solution:
             first_pointer = first_pointer.next
         second_pointer.next = second_pointer.next.next
         return temp_node.next
+
+    """Valid Parentheses"""
+
+    @staticmethod
+    def is_valid(s: str) -> bool:
+        def find_tag_for_char(char):
+            return {
+                '(': 1,
+                ')': -1,
+                '{': 2,
+                '}': -2,
+                '[': 3,
+                ']': -3
+            }.get(char, 0)
+
+        char_list = list()
+        if len(s) == 0:
+            return True
+        for char_str in s:
+            tag = find_tag_for_char(char_str)
+            if tag == 0:
+                return False
+            else:
+                if tag > 0:
+                    char_list.append(tag)
+                else:
+                    if len(char_list) == 0:
+                        return False
+                    last_tag = char_list.pop()
+                    if last_tag + tag != 0:
+                        return False
+        return len(char_list) == 0
+
+    """Merge two sorted list"""
+
+    @staticmethod
+    def merge_two_lists(l1: ListNode, l2: ListNode):
+        if l1 is None:
+            return l2
+        if l2 is None:
+            return l1
+        if l1.val <= l2.val:
+            l1.next = Solution.merge_two_lists(l1.next, l2)
+            return l1
+        else:
+            l2.next = Solution.merge_two_lists(l1, l2.next)
+            return l2
+
+    """Generate Parentheses"""
+
+    @staticmethod
+    def generate_parenthesis(n: int) -> list:
+        def find_parenthesis(result: list, cur_str, open_num, close_num, max_num):
+            if len(cur_str) >= max_num * 2:
+                result.append(cur_str)
+                return
+            if open_num < max_num:
+                find_parenthesis(result, cur_str + '(', open_num + 1, close_num, max_num)
+            if close_num < open_num:
+                find_parenthesis(result, cur_str + ')', open_num, close_num + 1, max_num)
+
+        parenthesis_list = list()
+        find_parenthesis(parenthesis_list, '', 0, 0, n)
+        return parenthesis_list
+
+    """Merge k Sorted Lists"""
+
+    @staticmethod
+    def merge_k_sorted_lists(lists: list) -> ListNode:
+        def merge_two_sorted_lists(l1: ListNode, l2: ListNode):
+            if l1 is None:
+                return l2
+            if l2 is None:
+                return l1
+            if l1.val <= l2.val:
+                l1.next = merge_two_sorted_lists(l1.next, l2)
+                return l1
+            else:
+                l2.next = merge_two_sorted_lists(l1, l2.next)
+                return l2
+
+        length = len(lists)
+        interval = 1
+        while interval < length:
+            for i in range(0, length - interval, interval * 2):
+                lists[i] = merge_two_sorted_lists(lists[i], lists[i + interval])
+            interval *= 2
+        return lists[0] if length > 0 else lists
