@@ -1,5 +1,6 @@
 from deep_learning import lr_utils
 import numpy as np
+
 from deep_learning.logistic_regression.cat_model import CatModel
 
 train_x_orig, train_y, test_x_orig, test_y, classes = lr_utils.load_data_set()

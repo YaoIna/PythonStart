@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="int.append" />
+          <option value="matplotlib.cm.Spectral" />
         </list>
       </option>
     </inspection_tool>
