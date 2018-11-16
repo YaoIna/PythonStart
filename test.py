@@ -45,20 +45,24 @@ import numpy
 # mm = mm[tt]
 # nn = 1
 
-tt = [1, 2, 3, 4]
-m = int(numpy.min(tt))
-t = 1
+# tt = [1, 2, 3, 4]
+# m = int(numpy.min(tt))
+# t = 1
 
 
-def probability_winning_series(n: int, p: float) -> float:
-    win_number = int(numpy.ceil(n / 2)) + 1
-    p_array = numpy.zeros(shape=(win_number + 1, win_number + 1))
-    p_array[0, :] = 1
-    p_array[0, 0] = -1
-    for i in range(1, win_number):
-        for j in range(1, win_number):
-            p_array[i, j] = p * p_array[i - 1, j] + (1 - p) * p_array[i, j - 1]
-    return p_array[win_number, win_number]
+mm = numpy.asarray([[1, 2, 4], [2, 3, 5]])
+tt = numpy.square(mm)
+ttt = 1
 
-
-probability_winning_series(7, 0.4)
+# def probability_winning_series(n: int, p: float) -> float:
+#     win_number = int(numpy.ceil(n / 2)) + 1
+#     p_array = numpy.zeros(shape=(win_number + 1, win_number + 1))
+#     p_array[0, :] = 1
+#     p_array[0, 0] = -1
+#     for i in range(1, win_number):
+#         for j in range(1, win_number):
+#             p_array[i, j] = p * p_array[i - 1, j] + (1 - p) * p_array[i, j - 1]
+#     return p_array[win_number, win_number]
+#
+#
+# probability_winning_series(7, 0.4)
