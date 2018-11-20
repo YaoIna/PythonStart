@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dec06a8-4b27-4efa-b09d-43db33f55b89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xxy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xxy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -16,7 +15,7 @@
     <session id="1999092046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
+          <entry key="project.closed" value="48" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.11" value="1" />
@@ -26,10 +25,10 @@
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,7 +36,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="4" />
           <entry key="md" value="1" />
-          <entry key="py" value="83" />
+          <entry key="py" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -45,22 +44,22 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="4" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="83" />
+          <entry key="Python" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="285" />
-          <entry key="dummy" value="58" />
+          <entry key="dummy" value="62" />
           <entry key="html" value="3" />
-          <entry key="py" value="24839" />
+          <entry key="py" value="26614" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="25124" />
+          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="Python" value="26899" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -69,21 +68,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep_learning/regularization/reg_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="182" selection-start-line="182" selection-end-line="182" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deep_learning/regularization/regularization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="2715">
               <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -93,31 +80,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/gc_utils.py">
+        <entry file="file://$PROJECT_DIR$/ai/computer_vision.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/test_case.py">
+        <entry file="file://$PROJECT_DIR$/deep_learning/optimization/opt_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="267">
+              <caret line="252" selection-start-line="252" selection-end-line="252" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/gradient_checking.py">
+        <entry file="file://$PROJECT_DIR$/deep_learning/optimization/optimization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+            <state relative-caret-position="135">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#193#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39690">
+              <caret line="2695" column="13" selection-start-line="2695" selection-start-column="13" selection-end-line="2695" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -139,31 +141,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="297">
+              <caret line="57" column="2" selection-start-line="57" selection-end-line="58" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep_learning/logistic_regression/logistic_regression_cat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deep_learning/lr_utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="97" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,10 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/classifier.py" />
-        <option value="$PROJECT_DIR$/Fib.py" />
-        <option value="$PROJECT_DIR$/display.py" />
-        <option value="$PROJECT_DIR$/iterator_test.py" />
         <option value="$PROJECT_DIR$/points_distance.py" />
         <option value="$PROJECT_DIR$/flask_web/base.html" />
         <option value="$PROJECT_DIR$/flask_web/entry.html" />
@@ -242,12 +219,16 @@
         <option value="$PROJECT_DIR$/deep_learning/initialization/init_utils.py" />
         <option value="$PROJECT_DIR$/deep_learning/initialization/initialization.py" />
         <option value="$PROJECT_DIR$/deep_learning/regularization/reg_utils.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/deep_learning/regularization/test_case.py" />
         <option value="$PROJECT_DIR$/deep_learning/regularization/regularization.py" />
         <option value="$PROJECT_DIR$/deep_learning/gradient_checking/gc_utils.py" />
         <option value="$PROJECT_DIR$/deep_learning/gradient_checking/test_case.py" />
         <option value="$PROJECT_DIR$/deep_learning/gradient_checking/gradient_checking.py" />
+        <option value="$PROJECT_DIR$/ai/computer_vision.py" />
+        <option value="$PROJECT_DIR$/deep_learning/optimization/opt_utils.py" />
+        <option value="$PROJECT_DIR$/deep_learning/optimization/test_case.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/deep_learning/optimization/optimization.py" />
       </list>
     </option>
   </component>
@@ -279,7 +260,7 @@
               <item name="PythonStart" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStart" type="462c0819:PsiDirectoryNode" />
               <item name="deep_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="gradient_checking" type="462c0819:PsiDirectoryNode" />
+              <item name="optimization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonStart" type="b2602c69:ProjectViewProjectNode" />
@@ -329,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gradient_checking">
+  <component name="RunManager" selected="Python.optimization">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frequency_mel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="computer_vision" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,11 +340,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frequency_mel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai/computer_vision.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,7 +374,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="initialization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="optimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -401,11 +382,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_learning/initialization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_learning/optimization" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning/initialization/initialization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_learning/optimization/optimization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,19 +439,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.HelloWorld" />
-      <item itemvalue="Python.frequency_mel" />
-      <item itemvalue="Python.initialization" />
       <item itemvalue="Python.regularization" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.gradient_checking" />
+      <item itemvalue="Python.computer_vision" />
+      <item itemvalue="Python.optimization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.optimization" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.computer_vision" />
         <item itemvalue="Python.gradient_checking" />
         <item itemvalue="Python.regularization" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.initialization" />
-        <item itemvalue="Python.frequency_mel" />
       </list>
     </recent_temporary>
   </component>
@@ -491,19 +472,19 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7612688" visible="true" weight="0.27906978" />
-      <window_info id="Structure" order="1" sideWeight="0.23873122" side_tool="true" visible="true" weight="0.27906978" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7595993" visible="true" weight="0.27906978" />
+      <window_info id="Structure" order="1" sideWeight="0.24040067" side_tool="true" visible="true" weight="0.27906978" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49964765" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.82522905" visible="true" weight="0.27831325" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.64622974" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8210007" visible="true" weight="0.27831325" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6420014" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49964765" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4982382" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17477097" side_tool="true" visible="true" weight="0.27831325" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17899929" side_tool="true" visible="true" weight="0.27831325" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.34698796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -562,16 +543,6 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>67</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/deep_learning/regularization/regularization.py</url>
           <line>73</line>
           <option name="timeStamp" value="63" />
@@ -586,6 +557,21 @@
           <line>91</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai/computer_vision.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_learning/optimization/optimization.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_learning/optimization/optimization.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -597,34 +583,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vowels_frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vowels_set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vsearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -780,13 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="2517" column="4" selection-start-line="2517" selection-start-column="4" selection-end-line="2517" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -809,10 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1542149706570" expanded="true" signature="80:112" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,10 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1542074546070" expanded="true" signature="227:250" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,11 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1542071378573" expanded="true" signature="231:232" ph="..." />
-            <marker date="1542071378573" expanded="true" signature="231:236" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,14 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="118" column="7" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1542000073153" expanded="true" signature="708:709" ph="..." />
-            <marker date="1542000073153" expanded="true" signature="708:713" ph="..." />
-            <marker date="1542000073153" expanded="true" signature="1138:1327" ph="..." />
-            <marker date="1542000073153" expanded="true" signature="2358:2359" ph="..." />
-            <marker date="1542000073153" expanded="true" signature="2358:2363" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -922,25 +852,40 @@
     <entry file="file://$PROJECT_DIR$/deep_learning/lr_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="97" />
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning/regularization/reg_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/gc_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="900">
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning/regularization/test_case.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39690">
+          <caret line="2695" column="13" selection-start-line="2695" selection-start-column="13" selection-end-line="2695" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deep_learning/planar_data_classification/test_cases.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -949,19 +894,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning/regularization/reg_utils.py">
+    <entry file="file://$PROJECT_DIR$/deep_learning/regularization/test_case.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/gradient_checking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        <state relative-caret-position="1605">
+          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ai/computer_vision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="57" column="2" selection-start-line="57" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning/optimization/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/deep_learning/regularization/regularization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
+        <state relative-caret-position="2715">
           <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -969,26 +944,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/test_case.py">
+    <entry file="file://$PROJECT_DIR$/deep_learning/optimization/opt_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/gc_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep_learning/gradient_checking/gradient_checking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        <state relative-caret-position="267">
+          <caret line="252" selection-start-line="252" selection-end-line="252" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_learning/optimization/optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#193#0" expanded="true" />
           </folding>
         </state>
       </provider>

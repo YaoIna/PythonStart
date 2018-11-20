@@ -50,9 +50,12 @@ import numpy
 # t = 1
 
 
-mm = numpy.asarray([[1, 2, 4], [2, 3, 5]])
-tt = numpy.square(mm)
-ttt = 1
+# mm = numpy.asarray([[1, 2, 4], [2, 3, 5]])
+# tt = numpy.square(mm)
+# ttt = 1
+
+tt = numpy.random.permutation(6)
+mm = 1
 
 # def probability_winning_series(n: int, p: float) -> float:
 #     win_number = int(numpy.ceil(n / 2)) + 1
